@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tefmasys",
+  "private_key_id": "e9260b95b159d1164c4571f4c18fabd601585361",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDCTuxjyIyPJ7jK\n81it7OO05s7ujPYIKOw50x78qgQNh+gMCc6vDGr90orn9Y0xKsfWUGgRrlaaCCJ/\nuFSkcR/1cSdF2MqbWKP0RDpsBiHjZMb6L81JeMTsBrrOHfozZ8csiUJCak+viuIb\nw6fL7udc6DgXWD3t2H+SVCioIzzLpGz39T5xf4995qK9fa2yrPZsw1q5sKGUz3Nh\nIV7ikn54beB2DT5viqvrrAh39RRFDu6OUyvf8Fyj/X/nreqga8vtcZC2xfare7Cm\nDFaT8jzDSDu1D2BYMCJhANOSs0uw3pzkqohFmHSbQ4vNHB8uVXh0kMCZRFRw2IUL\nonQJgcmZAgMBAAECggEACLcYhDs9Dri14ah7jEWJSxZlJq785A3N1qQhCi0oBGFZ\np5yTACf67oqQf2n0nMVx9CtkF5LtwHfn8DmY1k1apRwfqlLYd5JIvE6JHkpCH9xn\nzlXxi7+WeY2tuEwA6mhXtygq6Cazj0iX7q3ea1e6WeDyjx1+nZnt0ubicfQuqGWR\n9657x8DnKYQDmYNPf5U6ze+pe2SxJnYSWMy0p8qpOcT2Xsk6VnaKzA+kpOzmxRim\n4x6EsggGuactKZzs5LamVylk8S3rSVlb6hdu2JxXqQA4vJTUBmmZdPANSEg1c6Zt\npizXZrcPXPV5RyKzKshMhUaNQ8IEmL5eKDjTVZBGWQKBgQD6Su3tAjj3BITepbZK\nKEPxx1pYGmaQ5owjzHDujrJUpEyB6tVT/UYPl03DIdts6sZrLsbYg/f3n5NvXGgT\nw3yMtn+nJhn54wRS3JBpTr2axBWoQgqf9Asc+4r/s+Mz6m78TT2C/BGRKoVS0IXK\nE9PiLgF7jhLx5OBby/2cN02ZzQKBgQDGvTAfd9aP5ySed8JsegR7o8InU2Ajeo5P\nz0vEXo9i4N9jAd6YN5R+JN21aiue57lAjUdHmQtbmI/29UDUwsKm/5Q9CLyrBq3c\njOILfJQEEs2TKWDtOK0RBQH6ruoRmqPxLxfiRbLGWc8kE1z1Id5EffE99mW9Dbxt\nII3u/yHy/QKBgBQRxAg4IGc2No0/zmEd32zYplbgLw85XU1VjEykpooA7p2QPfDR\nIzgG0tZttZGDNcvMYWdlFZIGeqT4TOQgzbDexVeax4Rw/pzCUNYQ2UU6qd3nBcET\nqXx2cwvT2ckE6EdUzjTdj28LcMtWKxQsCNZfCAFnP/+jcZYKwlgvWwqVAoGAMm4T\nZgjMw1tN6YBOL6SOuqkFPWFkxdv1fL8HZN7x149kYAU7bLi9z3yfXceBJiN62KyA\n5+QoA6gk7++v8c0yA5pbDVnINkXNnGeLfIqyLI5w5+TaGZgGIol4xRnZf3oUG8Ft\neBdjk/16GJdpQTLE6fBjZOu/SUfRBof6PCk1fikCgYB7cQGNKzh6N/c6SiQpQwFH\n7ORbDtkLcbqrfq387wp9vmN+/gtLL7SbOkpWCdOZmN3mFGorbvbAvvo9Va7qJjow\nqcwPgg947Bh4bNGzAudqZpioYaiimcEEpWPnesl/ug1VeUtqH+VT9mz2bFwKleJd\nOEQxlh6FWjoQg6hg9iZQfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tefmasys@appspot.gserviceaccount.com",
+  "client_id": "103269325187630110657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tefmasys%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

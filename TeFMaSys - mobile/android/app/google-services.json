@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "457887304161",
+    "project_id": "tefmasys",
+    "storage_bucket": "tefmasys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457887304161:android:ccecb238f7b46ce6dd6aa0",
+        "android_client_info": {
+          "package_name": "com.example.tefmasys_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457887304161-c9dv0stkl09knm1qdc3dc2g2molh9gmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtiq8fhFRjnrTqQcHCZXbtLfTvKBEVBnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457887304161-c9dv0stkl09knm1qdc3dc2g2molh9gmp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457887304161-9a67a0omgge5bhc3j4vkndlvqnoa06me.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tefmasys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
